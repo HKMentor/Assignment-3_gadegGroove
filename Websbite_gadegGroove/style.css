@@ -647,22 +647,22 @@ transform: scale(1.2) rotate(45deg);
 }  
 
 /* section 8 contact */
-.bgcover8{
+.bgcover2{
     background-image: url(./images/bechbg.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    height: 130vh;
+    height: 100vh;
 
 }
-.maindiv8{
+.maindiv{
     display: flex;
     justify-content: center;
     align-items: center;
     padding:50px ;
     
 }
-.leftdiv8{
+.leftdiv{
     width: 35%;
     background-color: #050505;
     padding: 20px 30px;
@@ -672,12 +672,12 @@ transform: scale(1.2) rotate(45deg);
     text-align: left;
     line-height: 8em;
 }
-.leftdiv8 h4{
+.leftdiv h4{
     font-size: 1.5em;
     color: #f9f3f3;
     
 }
-.leftdiv8 input{
+.leftdiv input{
     width: 100%;
     padding: 20px;
     line-height: 20px;
@@ -687,7 +687,7 @@ transform: scale(1.2) rotate(45deg);
     font-size:15px;
     border-bottom: 1px solid #fdf9f9;
 }
-.rightdiv8{
+.rightdiv{
      width: 35%;
     background-color: #fdf9f9;
     padding: 30px;
@@ -698,29 +698,30 @@ transform: scale(1.2) rotate(45deg);
     /* line-height: 2em; */
 }
 
-.rightdiv8 h4{
+.rightdiv h4{
      font-size: 1.8em;
     color: var(--dark-bg);
     margin-bottom: 10px;
 
 }
-.rightdiv8 .para{
+.rightdiv .para{
     font-size: 14px;
     color: #928e8e;
     margin-bottom: 30px;
     line-height: 18px;
 }
-.rightdiv8 p{
+.rightdiv p{
     font-size: 16px;
     color: #3a3a3a;
     line-height: 3em;
 }
-.rightdiv8 p span{
+.rightdiv p span{
     color: var(--primary-color);
     font-size: 12px;
 }
 
 /* footer */
+/* ===== FOOTER SECTION ===== */
 footer {
   background-color: #111;
   color:  #f9f9f9;
