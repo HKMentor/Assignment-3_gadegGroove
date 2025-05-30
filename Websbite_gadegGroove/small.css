@@ -183,13 +183,13 @@ padding-right: 70px;
 /* 
 /* section8 contact */
 
-.maindiv {
+.maindiv8 {
   flex-direction: column;
   padding: 20px;
 }
 
-.leftdiv,
-.rightdiv {
+.leftdiv8,
+.rightdiv8 {
   width: 100%;
   height: auto;
   padding: 20px 10px;
@@ -197,18 +197,18 @@ padding-right: 70px;
   align-items: center;
 }
 
-.leftdiv input {
+.leftdiv8 input {
   padding: 15px;
   font-size: 14px;
   width: 90%;
 }
 
-.rightdiv h4 {
+.rightdiv8 h4 {
   font-size: 1.4em;
 }
 
-.rightdiv .para,
-.rightdiv p {
+.rightdiv8 .para,
+.rightdiv8 p {
   font-size: 13px;
   line-height: 1.6em;
 }

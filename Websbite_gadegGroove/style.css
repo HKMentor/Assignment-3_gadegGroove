@@ -649,14 +649,14 @@ transform: scale(1.2) rotate(45deg);
     height: 100vh;
 
 }
-.maindiv{
+.maindiv8{
     display: flex;
     justify-content: center;
     align-items: center;
     padding:50px ;
     
 }
-.leftdiv{
+.leftdiv8{
     width: 35%;
     background-color: #050505;
     padding: 20px 30px;
@@ -666,12 +666,12 @@ transform: scale(1.2) rotate(45deg);
     text-align: left;
     line-height: 8em;
 }
-.leftdiv h4{
+.leftdiv8 h4{
     font-size: 1.5em;
     color: #f9f3f3;
     
 }
-.leftdiv input{
+.leftdiv8 input{
     width: 100%;
     padding: 20px;
     line-height: 20px;
@@ -681,7 +681,7 @@ transform: scale(1.2) rotate(45deg);
     font-size:15px;
     border-bottom: 1px solid #fdf9f9;
 }
-.rightdiv{
+.rightdiv8{
      width: 35%;
     background-color: #fdf9f9;
     padding: 30px;
@@ -692,24 +692,24 @@ transform: scale(1.2) rotate(45deg);
     /* line-height: 2em; */
 }
 
-.rightdiv h4{
+.rightdiv8 h4{
      font-size: 1.8em;
     color: var(--dark-bg);
     margin-bottom: 10px;
 
 }
-.rightdiv .para{
+.rightdiv8 .para{
     font-size: 14px;
     color: #928e8e;
     margin-bottom: 30px;
     line-height: 18px;
 }
-.rightdiv p{
+.rightdiv8 p{
     font-size: 16px;
     color: #3a3a3a;
     line-height: 3em;
 }
-.rightdiv p span{
+.rightdiv8 p span{
     color: var(--primary-color);
     font-size: 12px;
 }

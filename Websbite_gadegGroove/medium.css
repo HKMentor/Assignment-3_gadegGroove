@@ -119,14 +119,14 @@ nav ul {
 
 
 /* SECTION 8 - CONTACT */
-.maindiv {
+.maindiv8 {
   flex-direction: column;
   padding: 30px 20px;
   align-items: stretch;
 }
 
-.leftdiv,
-.rightdiv {
+.leftdiv8,
+.rightdiv8 {
   width: 100%;
   height: auto;
   text-align: center;
