@@ -77,9 +77,8 @@ nav ul {
 .rightimg2 .img img {
   max-width: 400px;
 }
-/* section8 */
 /* Section 8 - Contact Page Responsive for medium screens */
-.maindiv8 {
+/* .maindiv8 {
   flex-direction: column;
   padding: 30px;
   gap: 30px;
@@ -96,7 +95,7 @@ nav ul {
 }
 
 /* footer */
-.footer-content {
+/* .footer-content {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -114,4 +113,41 @@ nav ul {
 
 .linksect1 ul li a {
   font-size: 14px;
+} */ 
+
+
+
+
+/* SECTION 8 - CONTACT */
+.maindiv {
+  flex-direction: column;
+  padding: 30px 20px;
+  align-items: stretch;
 }
+
+.leftdiv,
+.rightdiv {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  align-items: center;
+}
+
+.leftdiv input {
+  width: 90%;
+}
+
+/* FOOTER */
+.footer-content {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 25px;
+}
+
+.linksect1 {
+  width: 100%;
+}
+
+
+
