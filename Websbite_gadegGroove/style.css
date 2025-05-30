@@ -647,7 +647,7 @@ transform: scale(1.2) rotate(45deg);
 }  
 
 /* section 8 contact */
-.bgcover2{
+.bgcover8{
     background-image: url(./images/bechbg.jpg);
     background-size: cover;
     background-attachment: fixed;
